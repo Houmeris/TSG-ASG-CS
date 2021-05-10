@@ -1,0 +1,12 @@
+D:\Coding\M.D TSG_ASG\M.D TSG_ASG\bin\Debug\M.D TSG_ASG.exe.config
+D:\Coding\M.D TSG_ASG\M.D TSG_ASG\bin\Debug\M.D TSG_ASG.exe
+D:\Coding\M.D TSG_ASG\M.D TSG_ASG\bin\Debug\M.D TSG_ASG.pdb
+D:\Coding\M.D TSG_ASG\M.D TSG_ASG\obj\Debug\M.D TSG_ASG.csprojAssemblyReference.cache
+D:\Coding\M.D TSG_ASG\M.D TSG_ASG\obj\Debug\M.D_TSG_ASG.Form1.resources
+D:\Coding\M.D TSG_ASG\M.D TSG_ASG\obj\Debug\M.D_TSG_ASG.Properties.Resources.resources
+D:\Coding\M.D TSG_ASG\M.D TSG_ASG\obj\Debug\M.D TSG_ASG.csproj.GenerateResource.cache
+D:\Coding\M.D TSG_ASG\M.D TSG_ASG\obj\Debug\M.D TSG_ASG.csproj.CoreCompileInputs.cache
+D:\Coding\M.D TSG_ASG\M.D TSG_ASG\obj\Debug\M.D TSG_ASG.exe
+D:\Coding\M.D TSG_ASG\M.D TSG_ASG\obj\Debug\M.D TSG_ASG.pdb
+D:\Coding\M.D TSG_ASG\M.D TSG_ASG\obj\Debug\M.D_TSG_ASG.Popup_window.resources
+D:\Coding\M.D TSG_ASG\M.D TSG_ASG\obj\Debug\M.D_TSG_ASG.baze.resources
